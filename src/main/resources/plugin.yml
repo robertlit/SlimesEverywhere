@@ -1,0 +1,5 @@
+name: SlimesEverywhere
+version: ${project.version}
+main: me.robertlit.slimeseverywhere.SlimesEverywhere
+api-version: 1.15
+authors: [robertlit]
